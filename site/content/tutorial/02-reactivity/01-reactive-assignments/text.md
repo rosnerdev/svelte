@@ -14,7 +14,7 @@ Inside the `incrementCount` function, all we need to do is change the value of `
 
 ```js
 function incrementCount() {
-	count += 1;
+	count ++;
 }
 ```
 
